@@ -14,6 +14,15 @@ A Python-based interactive physics app built with Streamlit to help students vis
 
 ## Run locally
 
+interactive-physics-lab/
+├── app.py
+├── requirements.txt
+├── README.md
+├── modules/
+├── utils/
+├── docs/
+└── assets/
+
 ```bash
 python3 -m venv venv
 source venv/bin/activate
