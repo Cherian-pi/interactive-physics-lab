@@ -12,7 +12,7 @@ A Python-based interactive physics app built with Streamlit to help students vis
 - Real-time updates
 - Key physical quantities such as time of flight, maximum height, and horizontal range
 
-## Project Structure
+
 
 ## Run Locally
 
