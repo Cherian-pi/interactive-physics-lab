@@ -4,18 +4,17 @@ A Python-based interactive physics app built with Streamlit to help students vis
 
 ## Current Module
 - Projectile Motion Explorer
-- Comparative projectile visualization with 3 trajectories
+- Electric Field & Equipotential Visualizer
+
 
 ## Features
 - Interactive sliders for speed, angle, and gravity
 - Side-by-side trajectory comparison
 - Real-time updates
 - Key physical quantities such as time of flight, maximum height, and horizontal range
+- - Projectile Motion Explorer
+- Electric Field & Equipotential Visualizer
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 13153c4 (Your update message)
 
 ## Run Locally
 
@@ -40,7 +39,8 @@ interactive-physics-lab/
 
 ## Live App
 [Open the app](https://interactive-physics-lab-be6d52c2tihyhu84xdgwwn.streamlit.app/)
+```
 
-
-Author
+```
+## Author
   Cherian P Ittyipe
