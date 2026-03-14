@@ -12,7 +12,10 @@ A Python-based interactive physics app built with Streamlit to help students vis
 - Real-time updates
 - Key physical quantities such as time of flight, maximum height, and horizontal range
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 13153c4 (Your update message)
 
 ## Run Locally
 
@@ -34,6 +37,10 @@ interactive-physics-lab/
 ├── docs/                 # documentation and images
 └── assets/               # visual assets
 ```
+
+## Live App
+[Open the app](https://interactive-physics-lab-be6d52c2tihyhu84xdgwwn.streamlit.app/)
+
 
 Author
   Cherian P Ittyipe
